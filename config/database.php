@@ -7,7 +7,7 @@ ini_set('log_errors', 1);
 define('DB_HOST', 'localhost');
 define('DB_USER', 'trackzo_user');
 define('DB_PASS', 'TrackZo@123456');
-define('DB_NAME', 'trackzo_buildflow');
+define('DB_NAME', 'u8226391051_trackzo');
 
 try {
     $conn = new mysqli(DB_HOST, DB_USER, DB_PASS, DB_NAME);
