@@ -5,6 +5,10 @@ ini_set('display_errors', 0);
 ini_set('log_errors', 1);
 
 define('DB_HOST', 'localhost');
+define('DB_USER', 'u8226391105_trackzo_user');
+define('DB_PASS', 'TrackZo@123456');
+define('DB_NAME', 'u8226391105_trackzo');
+
 define('DB_USER', 'trackzo_user');
 define('DB_PASS', 'TrackZo@123456');
 define('DB_NAME', 'u8226391051_trackzo');
